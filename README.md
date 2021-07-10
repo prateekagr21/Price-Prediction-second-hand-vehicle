@@ -5,7 +5,7 @@
 
 - Loading the dataset and checking for null values.
 - Doing Exploratory Data Analysis.
-- Visualization of considerable factors.
+- Visualization of the considerable factors.
 
 #### Analysis :
 - Making dummy variables.
