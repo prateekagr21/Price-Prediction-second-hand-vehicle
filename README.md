@@ -31,7 +31,7 @@ Selected parameters using
 
 ## And Now, for the Prediction,
 - Fitted the model
-Looked for
+Looked for the :
 - best parameters 
 - and Scores.
 
